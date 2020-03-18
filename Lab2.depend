@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1573896892 source:d:\3 курс\1 семестр\lab2\main.cpp
+	<iostream>
+	<ctime>
+	"allocator.h"
+
+1573674209 source:d:\3 курс\1 семестр\lab2\block.cpp
+	"block.h"
+
+1573674029 d:\3 курс\1 семестр\lab2\block.h
+
+1573803183 source:d:\3 курс\1 семестр\lab2\allocator.cpp
+	"allocator.h"
+	<iostream>
+
+1573802232 d:\3 курс\1 семестр\lab2\allocator.h
+	<string>
+	<sstream>
+	<iomanip>
+	"blocks_list.h"
+
+1573754710 d:\3 курс\1 семестр\lab2\blocks_list.h
+	<iostream>
+	"block.h"
+
+1573896529 source:d:\3 курс\1 семестр\lab2\blocks_list.cpp
+	"blocks_list.h"
+
+1573803183 source:d:\labs\5sem\os\lab2\allocator.cpp
+	"allocator.h"
+	<iostream>
+
+1573802232 d:\labs\5sem\os\lab2\allocator.h
+	<string>
+	<sstream>
+	<iomanip>
+	"blocks_list.h"
+
+1573754710 d:\labs\5sem\os\lab2\blocks_list.h
+	<iostream>
+	"block.h"
+
+1573674029 d:\labs\5sem\os\lab2\block.h
+
+1573674209 source:d:\labs\5sem\os\lab2\block.cpp
+	"block.h"
+
+1573896529 source:d:\labs\5sem\os\lab2\blocks_list.cpp
+	"blocks_list.h"
+
+1573896892 source:d:\labs\5sem\os\lab2\main.cpp
+	<iostream>
+	<ctime>
+	"allocator.h"
+
